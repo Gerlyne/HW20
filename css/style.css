@@ -55,12 +55,6 @@ header p {
 p :hover {background-color: darkmagenta;
 }
 
-  .container {
-  position: relative;
-  top: 0;
-  left: 0;
-}
-
 .bluehero {
   position: relative;
   top: 0;
@@ -68,7 +62,7 @@ p :hover {background-color: darkmagenta;
 }
 .yellowhero{
   position: absolute;
-  top: 30px;
+  top: 70px;
   left: 30px;
  
 }
